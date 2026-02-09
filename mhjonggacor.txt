@@ -167,7 +167,7 @@
   "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjMQrNsCd44fspsLyr5INWlkbY6o4mBUlqe9mrcAVmxHqPvutjBRZh7_XTU6kQcIDFVBcovpiwQa4vnXpO3Iyp_mhU4hchaMP9zhHtaO7mm9zuNIPHur99wKH5ZcWt1P9YLoJusQd9G0NmBiK0qU911g15K0u3Z15qEdtLdGD-4PL6DfYZaVbIngam5ErCA",
   "datePublished": "2026-01-01",
   "dateModified": "2026-02-09",
-  "url": ""https://www.uogc.org.ar/uogc/principios",
+  "url": "https://www.uogc.org.ar/uogc/principios",
   "author": {
     "@type": "Person",
     "name": "littleGiant168"
