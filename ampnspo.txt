@@ -89,88 +89,20 @@
 
 <meta name="robots" content="max-image-preview:large">
 
-<!-- Schema Organization (diperbaiki & diperkaya) -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "SEWU88SLOT",
-  "url": https://nspo.com.my/contact/",
-  "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjzsC3cE9yTpykGz1KHhqlvaTTyapz5WZPjrCEzG4RKxut-AtidIMwgLwqaiM2LNWopevrvPoyM3SkQ1z5TiYroC9iqTUn9sui-WpSR8-fcl-ykfpKY3T0sn4F6jfKzGwkwoVczLwgOMnIjZCdLhBqDDjs_aDFqKN4OCWz_x6qkyQMbGXP5NWeSOa4m4O8H",
-  "description": "SEWU88SLOT adalah platform informasi dan panduan slot online terpercaya di Indonesia, menyediakan review game gacor seperti Mahjong Ways, strategi bermain, serta link situs resmi dengan fitur keamanan tinggi dan transaksi cepat.",
-  "foundingDate": "2025",
-  "sameAs": [
-    "https://www.facebook.com/SEWU88SLOT",
-    "https://twitter.com/SEWU88SLOT",
-    "https://www.instagram.com/SEWU88SLOT"
-  ],
-  "contactPoint": [
-    {
-      "@type": "ContactPoint",
-      "telephone": "+62-812-4401-6688",
-      "contactType": "customer support",
-      "areaServed": "ID",
-      "availableLanguage": ["Indonesian", "English"],
-      "contactOption": "TollFree",
-      "hoursAvailable": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    }
-  ]
-}
-</script>
-
-<!-- Schema BreadcrumbList (diperbaiki, lebih natural) -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://www.matan-consulting.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Panduan Slot Online",
-      "item": https://nspo.com.my/contact/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Slot Mahjong Ways",
-      "item": https://nspo.com.my/contact/#mahjong-ways"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Mahjong Ways Gacor 2026",
-      "item": https://nspo.com.my/contact/"
-    }
-  ]
-}
-</script>
-
-<!-- Schema Article (baru ditambahkan sebagai tipe utama) -->
+<!-- Schema Article utama + Product mainEntity + Review match testimoni -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Link Situs Slot Mahjong Gacor Hari Ini - Panduan Lengkap Mahjong Ways 2 & 3 2026",
-  "description": "Panduan terlengkap bermain Mahjong Ways 2 & 3 PG Soft tahun 2026: strategi gacor, jam terbaik, RTP tinggi, fitur maxwin, deposit 10K Dana tanpa potong, withdraw kilat, serta tips memilih situs slot terpercaya.",
+  "headline": "Panduan Lengkap Slot Mahjong Ways 2 & 3 Gacor 2026 – Strategi Maxwin",
+  "description": "Panduan terlengkap bermain Mahjong Ways 2 & 3 PG Soft tahun 2026: strategi gacor, jam terbaik, RTP tinggi, fitur maxwin, deposit 10K Dana tanpa potong, withdraw kilat.",
   "image": "https://blogger.googleusercontent.com/img/a/AVvXsEixkqw29OS6ciiHMdGtxd3WdArBdxa95BAVJNCFdpJRfZD3-xA0_9ZOT-Vo51pb-8NbtI73VOPEAgXwH4hu3MVvn4uhjoiioye6r1tZ9ehBnqeXghJ3XsJgPADtd6Qu5MKT5RFkfBdAOfTF961FijH_WdFiuMYkRBAm069nKSCo0C-D5H3S-RcfamEZYBhr",
   "datePublished": "2026-01-01",
   "dateModified": "2026-02-09",
+  "url": "https://nspo.com.my/contact/",
   "author": {
     "@type": "Person",
-    "name": "littleGiant168",
-    "url": https://nspo.com.my/contact/"
+    "name": "littleGiant168"
   },
   "publisher": {
     "@type": "Organization",
@@ -182,13 +114,13 @@
   },
   "mainEntity": {
     "@type": "Product",
-    "name": "Situs Slot Mahjong Ways - SEWU88SLOT 2026",
+    "name": "Mahjong Ways 3 – Slot Mahjong Gacor PG Soft",
     "image": "https://blogger.googleusercontent.com/img/a/AVvXsEixkqw29OS6ciiHMdGtxd3WdArBdxa95BAVJNCFdpJRfZD3-xA0_9ZOT-Vo51pb-8NbtI73VOPEAgXwH4hu3MVvn4uhjoiioye6r1tZ9ehBnqeXghJ3XsJgPADtd6Qu5MKT5RFkfBdAOfTF961FijH_WdFiuMYkRBAm069nKSCo0C-D5H3S-RcfamEZYBhr",
-    "description": "Cari link situs slot mahjong terbaru? Kami sediakan link situs slot mahjong resmi dengan RTP tinggi dan fitur lengkap. Gabung sekarang via link situs slot mahjong kami untuk main slot mahjong online yang fair dan cepat withdraw.",
-    "sku": "MW3-SW88-2026",
+    "description": "Slot cluster pay terbaik dari PG Soft dengan RTP 96.98–97.02%, multiplier hingga 10x, free spins retrigger tak terbatas, dan potensi maxwin instan.",
+    "sku": "MW3-PG-2026",
     "brand": {
       "@type": "Brand",
-      "name": "SEWU88SLOT"
+      "name": "PG Soft"
     },
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -197,42 +129,65 @@
       "bestRating": "5",
       "worstRating": "1"
     },
-    "review": 
-    [
+    "review": [
       {
-      "@type": "Review",
-      "reviewRating": {"@type": "Rating", "ratingValue": "5"},
-      "author": {"@type": "Person", "name": "Ahmad Rizky"},
-      "datePublished": "2026-01-15",
-      "reviewBody": "Udah hampir setahun main di SEWU88SLOT, game selalu update, RTP tinggi, bonus harian bikin saldo naik cepat. Withdraw lancar, CS ramah. Cuan konsisten dan maxwin sering muncul!"
-    },
-    {
-      "@type": "Review",
-      "reviewRating": {"@type": "Rating", "ratingValue": "5"},
-      "author": {"@type": "Person", "name": "Sari Wulandari"},
-      "datePublished": "2026-01-20",
-      "reviewBody": "Suka banget main di SEWU88SLOT, interface gampang, promo eksklusif bikin peluang jackpot gede. Keamanan top, server stabil, CS 24 jam. Maxwin langsung masuk saat hoki!"
-    },
-    {
-      "@type": "Review",
-      "reviewRating": {"@type": "Rating", "ratingValue": "5"},
-      "author": {"@type": "Person", "name": "Faisal Rahman"},
-      "datePublished": "2026-01-25",
-      "reviewBody": "Sejak pindah ke SEWU88SLOT nggak mau ganti lagi. Withdraw super cepat, bonus new member & deposit gede, maxwin sering. Nyaman main setiap hari tanpa ribet!"
-    },
-    {
-      "@type": "Review",
-      "reviewRating": {"@type": "Rating", "ratingValue": "4"},
-      "author": {"@type": "Person", "name": "Nadia Putri"},
-      "datePublished": "2026-02-01",
-      "reviewBody": "SEWU88SLOT paling oke buat slot online. Keamanan mantap, RTP tinggi, game beragam termasuk yang gacor. Promo mingguan & cashback bikin saldo tebal, main stabil tanpa lag!"
-    }
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ahmad Rizky"
+        },
+        "datePublished": "2026-01-15",
+        "reviewBody": "Udah hampir setahun main di SEWU88SLOT, game selalu update, RTP tinggi, bonus harian bikin saldo naik cepat. Withdraw lancar, CS ramah. Cuan konsisten dan maxwin sering muncul!"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Sari Wulandari"
+        },
+        "datePublished": "2026-01-20",
+        "reviewBody": "Suka banget main di SEWU88SLOT, interface gampang, promo eksklusif bikin peluang jackpot gede. Keamanan top, server stabil, CS 24 jam. Maxwin langsung masuk saat hoki!"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Faisal Rahman"
+        },
+        "datePublished": "2026-01-25",
+        "reviewBody": "Sejak pindah ke SEWU88SLOT nggak mau ganti lagi. Withdraw super cepat, bonus new member & deposit gede, maxwin sering. Nyaman main setiap hari tanpa ribet!"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nadia Putri"
+        },
+        "datePublished": "2026-02-01",
+        "reviewBody": "SEWU88SLOT paling oke buat slot online. Keamanan mantap, RTP tinggi, game beragam termasuk yang gacor. Promo mingguan & cashback bikin saldo tebal, main stabil tanpa lag!"
+      }
     ]
   }
 }
 </script>
 
-<!-- Schema FAQPage (tambahan untuk rich snippet accordion) -->
+<!-- Schema FAQPage (tetap, sudah valid) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -282,32 +237,32 @@
 }
 </script>
 
-<!-- Schema HowTo (tambahan untuk bagian strategi - bisa muncul rich result langkah-langkah) -->
+<!-- Schema HowTo (dioptimalkan, kurangi promo kata) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "HowTo",
-  "name": "Cara Bermain Mahjong Ways 3 Agar Sering Maxwin di 2026",
-  "description": "Langkah-langkah sederhana dan efektif untuk memaksimalkan peluang menang di slot Mahjong Ways 3 PG Soft SEWU88SLOT.",
+  "name": "Cara Bermain Slot Mahjong Ways 3 Efektif 2026",
+  "description": "Langkah-langkah sederhana untuk memaksimalkan peluang di slot Mahjong Ways 3 PG Soft.",
   "step": [
     {
       "@type": "HowToStep",
-      "text": "Siapkan modal minimal Rp 10.000 dan atur batas bet kecil (Rp 200-1.000 per spin).",
+      "text": "Siapkan modal minimal Rp 10.000 dan atur batas bet kecil (Rp 200–1.000 per spin).",
       "position": 1
     },
     {
       "@type": "HowToStep",
-      "text": "Warm-up selama 80-120 spin dengan bet rendah untuk meraba pola server dan frekuensi scatter.",
+      "text": "Warm-up selama 80–120 spin dengan bet rendah untuk meraba pola server dan frekuensi scatter.",
       "position": 2
     },
     {
       "@type": "HowToStep",
-      "text": "Main di jam gacor favorit komunitas: 00:00-03:00 WIB atau 14:00-17:00 WIB.",
+      "text": "Main di jam yang sering dilaporkan komunitas: 00:00–03:00 WIB atau 14:00–17:00 WIB.",
       "position": 3
     },
     {
       "@type": "HowToStep",
-      "text": "Manfaatkan fitur buy bonus hanya saat saldo minimal 80-100x nilai buy, jangan lebih dari 20% modal per sesi.",
+      "text": "Gunakan fitur buy bonus hanya saat saldo cukup (minimal 80–100x nilai buy), jangan lebih dari 20% modal per sesi.",
       "position": 4
     },
     {
