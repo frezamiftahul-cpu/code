@@ -97,12 +97,15 @@
   "headline": "Panduan Lengkap Slot Mahjong Ways 2 & 3 Gacor 2026 – Strategi Maxwin",
   "description": "Panduan terlengkap bermain Mahjong Ways 2 & 3 PG Soft tahun 2026: strategi gacor, jam terbaik, RTP tinggi, fitur maxwin, deposit 10K Dana tanpa potong, withdraw kilat.",
   "image": "https://blogger.googleusercontent.com/img/a/AVvXsEixkqw29OS6ciiHMdGtxd3WdArBdxa95BAVJNCFdpJRfZD3-xA0_9ZOT-Vo51pb-8NbtI73VOPEAgXwH4hu3MVvn4uhjoiioye6r1tZ9ehBnqeXghJ3XsJgPADtd6Qu5MKT5RFkfBdAOfTF961FijH_WdFiuMYkRBAm069nKSCo0C-D5H3S-RcfamEZYBhr",
-  "datePublished": "2026-01-01",
-  "dateModified": "2026-02-09",
+  "datePublished": "2026-01-01T08:00:00+07:00",
+  "dateModified": "2026-02-09T17:00:00+07:00",
   "url": "https://nspo.com.my/contact/",
+  "keywords": "slot mahjong gacor, mahjong ways 3, rtp tinggi, maxwin 2026, situs slot terpercaya, pg soft",
+  "wordCount": 1800,
   "author": {
     "@type": "Person",
-    "name": "littleGiant168"
+    "name": "littleGiant168",
+    "url": "https://nspo.com.my/contact/#author"
   },
   "publisher": {
     "@type": "Organization",
@@ -132,54 +135,30 @@
     "review": [
       {
         "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5"
-        },
-        "author": {
-          "@type": "Person",
-          "name": "Ahmad Rizky"
-        },
-        "datePublished": "2026-01-15",
+        "reviewRating": {"@type": "Rating", "ratingValue": "5"},
+        "author": {"@type": "Person", "name": "Ahmad Rizky"},
+        "datePublished": "2026-01-15T10:00:00+07:00",
         "reviewBody": "Udah hampir setahun main di SEWU88SLOT, game selalu update, RTP tinggi, bonus harian bikin saldo naik cepat. Withdraw lancar, CS ramah. Cuan konsisten dan maxwin sering muncul!"
       },
       {
         "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5"
-        },
-        "author": {
-          "@type": "Person",
-          "name": "Sari Wulandari"
-        },
-        "datePublished": "2026-01-20",
+        "reviewRating": {"@type": "Rating", "ratingValue": "5"},
+        "author": {"@type": "Person", "name": "Sari Wulandari"},
+        "datePublished": "2026-01-20T14:30:00+07:00",
         "reviewBody": "Suka banget main di SEWU88SLOT, interface gampang, promo eksklusif bikin peluang jackpot gede. Keamanan top, server stabil, CS 24 jam. Maxwin langsung masuk saat hoki!"
       },
       {
         "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5"
-        },
-        "author": {
-          "@type": "Person",
-          "name": "Faisal Rahman"
-        },
-        "datePublished": "2026-01-25",
+        "reviewRating": {"@type": "Rating", "ratingValue": "5"},
+        "author": {"@type": "Person", "name": "Faisal Rahman"},
+        "datePublished": "2026-01-25T09:15:00+07:00",
         "reviewBody": "Sejak pindah ke SEWU88SLOT nggak mau ganti lagi. Withdraw super cepat, bonus new member & deposit gede, maxwin sering. Nyaman main setiap hari tanpa ribet!"
       },
       {
         "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "4"
-        },
-        "author": {
-          "@type": "Person",
-          "name": "Nadia Putri"
-        },
-        "datePublished": "2026-02-01",
+        "reviewRating": {"@type": "Rating", "ratingValue": "4"},
+        "author": {"@type": "Person", "name": "Nadia Putri"},
+        "datePublished": "2026-02-01T11:45:00+07:00",
         "reviewBody": "SEWU88SLOT paling oke buat slot online. Keamanan mantap, RTP tinggi, game beragam termasuk yang gacor. Promo mingguan & cashback bikin saldo tebal, main stabil tanpa lag!"
       }
     ]
