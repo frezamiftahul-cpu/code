@@ -167,7 +167,7 @@
   "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjdkAzpaAY6HFFqaTdvD642IKe8i2QpzSZ5ncRyJSUONttlszV2u9zQaySHYDdhhpg6BSpJbNQRx-J8PSeZz4QkmzqgTBUR8Xr7CGQxqTKo4KiPvEI-6MF4TW-YAdUAme2H8fduE-qYg5xdHqQ52L2iyMzcSkYKDw4dNvlgC2nf_kHfChrNtF--Rz9RJZZo",
   "datePublished": "2026-01-01",
   "dateModified": "2026-02-09",
-  "url": ""https://mamababyfund.org/contact/",
+  "url": "https://mamababyfund.org/contact/",
   "author": {
     "@type": "Person",
     "name": "littleGiant168"
